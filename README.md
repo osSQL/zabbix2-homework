@@ -88,13 +88,13 @@
 
 ### Задание 1
 Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
-<img src = "img/image1.png" width = 100%>
+<img src = "img/image1_1.png" width = 100%>
 
 
 ### Задание 2-3
 Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 <img src = "img/image2.png" width = 100%>
-<img src = "img/image3.png" width = 100%>
+<img src = "img/image3_2.png" width = 100%>
 
 Linux by Zabbix Agent:
 
