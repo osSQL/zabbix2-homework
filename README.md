@@ -93,13 +93,8 @@
 
 ### Задание 2-3
 Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
-<img src = "img/image2.png" width = 100%>
-<img src = "img/image3_2.png" width = 100%>
+<img src = "img/image.png" width = 100%>
 
-Linux by Zabbix Agent:
-
-<img src = "img/image2_1.png" width = 100%>
-<img src = "img/image3_1.png" width = 100%>
 
 ### Задание 4
 Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
